@@ -33,7 +33,8 @@ package lesson1
  * В случае обнаружения неверного формата файла бросить любое исключение.
  */
 fun sortTimes(inputName: String, outputName: String) {
-    TODO()
+    var i = 0
+    while (true) i++
 }
 
 /**
